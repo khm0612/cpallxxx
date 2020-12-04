@@ -1,0 +1,3 @@
+ReWriteEngine On
+
+RewriteRule  ^888/([^/\.]+)?$     /sing9/new/json_search_km_Sing.php?x=24shop=$1   [L]
